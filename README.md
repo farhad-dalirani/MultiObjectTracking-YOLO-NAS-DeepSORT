@@ -1,6 +1,8 @@
 # MultiObjectTracking-YOLO-NAS-DeepSORT
 
+<p align="center">
 <img src="readme-files/MOT-YOLO-NAS-DeepSORT.png" alt="Alt text" width="600" />
+</p> 
 
 ## Project Description:
 This repository implements a robust online real-time multi-object tracking (MOT) system using a tracking-by-detection scheme. In the tracking-by-detection approach, upon receiving a new frame, objects are detected using an object detector. Based on a similarity metric, the newly detected bounding boxes are then assigned to existing tracks, or new tracks are formed.
@@ -56,7 +58,7 @@ python main.py
 
 ## Demo
 <video width="600" controls>
-  <source src="readme-files/demo.webm" type="video/webm">
+  <source src="readme-files/demo.mp4" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
