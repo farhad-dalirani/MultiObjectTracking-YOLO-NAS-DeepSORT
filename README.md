@@ -58,7 +58,7 @@ python main.py
 
 ## Demo
 <video width="600" controls>
-  <source src="readme-files/demo.mp4" type="video/webm">
+  <source src="readme-files/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
