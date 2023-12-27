@@ -57,10 +57,22 @@ python main.py
 ```
 
 ## Demo
-<video width="600" controls>
-  <source src="readme-files/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video]](readme-files/demo.mp4)
 
+<p align="center">
+<img src="readme-files/demo-pic-3.png" alt="Alt text" width="600" />
+</p> 
+<p align="center">
+<img src="readme-files/demo-pic-2.png" alt="Alt text" width="600" />
+</p> 
+<p align="center">
+<img src="readme-files/demo-pic-1.png" alt="Alt text" width="600" />
+</p> 
+<p align="center">
+<img src="readme-files/demo-pic-4.png" alt="Alt text" width="600" />
+</p> 
+<p align="center">
+<img src="readme-files/demo-pic-5.png" alt="Alt text" width="600" />
+</p> 
 
 
