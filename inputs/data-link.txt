@@ -1,0 +1,14 @@
+1) People Tracking Data:
+https://www.kaggle.com/datasets/trainingdatapro/people-tracking
+
+2) MOT17 Challenge (Multiple Object Tracking)
+https://motchallenge.net/data/MOT17/
+
+3) Vidoe people running
+https://www.youtube.com/watch?v=7r3LApdV01s
+
+4) Video Dog Person
+https://youtu.be/38zGQQbaBZY?si=yXzGclkyqwt5-3ZA
+
+5) Horses
+https://youtu.be/ZtoTMeg8iaE?si=iFqaaLPH4v0otAaT
