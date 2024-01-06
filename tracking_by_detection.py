@@ -9,6 +9,12 @@ from datetime import datetime
 
 def tracking_by_detection(config):
 
+    # Check if the output folder exists
+    if not os.path.exists(config['output_folder']):
+        # Create it
+        os.makedirs(config['output_folder'])
+        print(f"Folder '{config['output_folder']}' created.")
+        
     # Select device
     if config['detector_device'] == 'cuda:0':
         device_detector = torch.device('cuda:0') if torch.cuda.is_available() else torch.device('cpu')
